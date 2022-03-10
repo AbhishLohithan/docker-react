@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Abhish - Deployment using nginx, docker, travis and elasticbean
+          Abhish - Deployment using nginx, docker, travis and elasticbeanstalk - Modified 
         </p>
         <a
           className="App-link"
