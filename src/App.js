@@ -7,16 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Abhish - Deployment using nginx, docker, travis and elasticbean
+          Abhish - Deployment using nginx, docker, travis and elasticbeanstalk 
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>I was changed on the feature</p>
       </header>
     </div>
   );
